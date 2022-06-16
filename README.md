@@ -30,11 +30,11 @@ This project created some dummy customer data of Starbucks, along with their act
 # Files - Project Structure
 
 1.data
-  1.1 portfolio.json (describes offer provided by Starbucks)
-  1.2 profile.json (dummy customer data including gender, age, income etc.)
-  1.3 transcript.json (including customer's action on each offer, like offer viewed, offer received, offer completed, transaction and its amount, time etc)
-  1.4 transcript_offer_id (after offer id mapped to related transactions)
-  1.5 transcript_preprocessed (preprocessed transcript_offer_id)
+- portfolio.json (describes offer provided by Starbucks)
+- profile.json (dummy customer data including gender, age, income etc.)
+- transcript.json (including customer's action on each offer, like offer viewed, offer received, offer completed, transaction and its amount, time etc)
+- transcript_offer_id (after offer id mapped to related transactions)
+- transcript_preprocessed (preprocessed transcript_offer_id)
 
 2.Capstone_Project_Report.pdf (A blog describe the whole project, including overview, methodology, results, conclusion)
 
